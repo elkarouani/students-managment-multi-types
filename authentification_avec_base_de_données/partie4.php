@@ -77,11 +77,6 @@
 				}else{
 					echo '<h5 class="text-success border-success text-center">You are successfully Loged in</h5>';	
 				}
-				// if ($_POST['email'] === User::getEmail() && $_POST['password'] === User::getPassword()) {
-				// 	echo '<h5 class="text-success border-success text-center">You are successfully Loged in</h5>';	
-				// }else {
-				// 	echo '<h5 class="text-warning border-warning text-center">Email or password wrong, if you are new, go ahead and Sign up !!</h5>';	
-				// }
 			}
 		?>
 		<div class="card text-center" style="margin: 30px 170px;">
